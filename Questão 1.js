@@ -1,6 +1,6 @@
 
 
-function soma(a, b)
+function printOperacoes(a, b)
 {
     console.log("Soma: ", a + b)
     console.log("Subtração: ", a - b)
@@ -8,4 +8,4 @@ function soma(a, b)
     console.log("Divisão: ", a / b)
 }
 
-soma(1,2)
+printOperacoes(1,2)
