@@ -1,4 +1,4 @@
-fruta = 5
+const fruta = 5
 
 switch(fruta)
 {

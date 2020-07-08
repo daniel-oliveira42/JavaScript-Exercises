@@ -1,4 +1,4 @@
-carro = "Hatch"
+const carro = "Hatch"
 
 switch(carro)
 {

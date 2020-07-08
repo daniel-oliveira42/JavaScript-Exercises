@@ -1,4 +1,4 @@
-dia = 4
+const dia = 4
 
 switch(dia)
 {
