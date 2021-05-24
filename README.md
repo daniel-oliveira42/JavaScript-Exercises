@@ -1,2 +1,2 @@
-# Exercicios em JS
+# Práticas de JavaScript
  Exercises ES6
