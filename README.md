@@ -1,2 +1,3 @@
-# Práticas de JavaScript
- Exercises ES6
+# JavaScript (ES6) Exercises
+
+## Index 
